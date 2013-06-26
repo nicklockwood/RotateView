@@ -1,7 +1,7 @@
 //
 //  RotateView.h
 //
-//  Version 1.0
+//  Version 1.0.1
 //
 //  Created by Nick Lockwood on 28/07/2010.
 //  Copyright 2010 Charcoal Design

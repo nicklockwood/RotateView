@@ -1,6 +1,6 @@
 RotateView
 
-Version 1.0, June 12th, 2013
+Version 1.0.1, June 26th, 2013
 
 Copyright (C) 2010 Charcoal Design
 
