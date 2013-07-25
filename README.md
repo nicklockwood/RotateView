@@ -61,3 +61,11 @@ These properties specify a size to be applied to the RotateView's frame when whe
     @property (nonatomic, assign) CGPoint portraitOffset;
     
 These properties specify an offset to apply to the RotateView when when it rotates to landscape or portrait mode respectively. The offset is relative to the rotated screen, so to offset the view 100 points to the right in landscape mode you would use CGPointMake(100, 0) as the landscapeOffset value. Default to CGPointZero.
+
+
+Methods
+------------
+
+    - (void)setOrientation:(UIInterfaceOrientation)orientation animated:(BOOL)animated;
+    
+This method can be used to manually set the view orientation. This may be useful if you have disabled automatic rotation, or wish to override the standard behaviour.

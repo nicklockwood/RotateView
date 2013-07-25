@@ -1,7 +1,7 @@
 //
 //  RotateView.m
 //
-//  Version 1.0.1
+//  Version 1.0.2
 //
 //  Created by Nick Lockwood on 28/07/2010.
 //  Copyright 2010 Charcoal Design
